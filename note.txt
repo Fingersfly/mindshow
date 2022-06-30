@@ -1,0 +1,6 @@
+1、ssh config：https://blog.csdn.net/m0_55527229/article/details/118390266；
+2、openSSL SSL_read: connection was reset, errno 10054: https://blog.csdn.net/weixin_44695700/article/details/121689002
+原来：
+https://github.com/Kevin1024Efan/CaiDaXing-Blog.git/
+修改后：
+git@github.com:Kevin1024Efan/CaiDaXing-Blog.git
